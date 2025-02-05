@@ -1,8 +1,20 @@
+// `Expense` class: Represents a single expense with properties like
+//     title, amount, date, category, and a unique ID.
+//  - `Category` enum: Defines different expense categories (food, travel, etc.).
+//   - `ExpenseBucket` class: Groups expenses by category and calculates
+//     the total expenses for each category.
+//
+// This code provides a foundation for building features like:
+//   - Adding, editing, and deleting expenses.
+//   - Displaying expenses in a list or chart.
+//   - Filtering expenses by category or date.
+//   - Analyzing spending trends.
+
 import 'package:flutter/material.dart';
 import 'package:intl/intl.dart';
 import 'package:uuid/uuid.dart';
 
-//dicide content of a single list item
+//decide content of a single list item
 
 final formatter = DateFormat.yMd();
 const uuid = Uuid();

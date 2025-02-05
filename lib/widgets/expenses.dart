@@ -1,3 +1,13 @@
+// This code defines the main application widget, `Expenses`.
+//
+// - It manages a list of `Expense` objects.
+// - Displays a `Chart` to visualize expense data.
+// - Displays a list of expenses using the `ExpensesList` widget.
+// - Provides a button to add new expenses through the `NewExpense` widget.
+// - Handles the addition and removal of expenses from the list.
+// - Implements undo functionality for deleted expenses.
+// - Adapts the layout based on screen width for different screen sizes.
+
 import 'package:expense_tracker/widgets/chart/chart.dart';
 import 'package:expense_tracker/widgets/expense_list/expenses_list.dart';
 import 'package:expense_tracker/models/expense.dart';

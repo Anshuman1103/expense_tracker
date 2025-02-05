@@ -1,3 +1,11 @@
+// This code defines a stateful widget, `NewExpense`, for adding new expenses.
+
+// - It provides input fields for title, amount, date, and category.
+// - Validates user input and displays an error message if invalid.
+// - Allows the user to select a date using a date picker.
+// - Adapts the layout to different screen sizes using `LayoutBuilder`.
+// - Handles saving the new expense and closing the widget.
+
 import 'package:expense_tracker/models/expense.dart';
 import 'package:flutter/material.dart';
 
