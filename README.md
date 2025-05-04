@@ -23,9 +23,8 @@ A simple and elegant **Expense Tracker** application built using **Flutter** and
 ## 📱 Screenshots
 
 *(![WhatsApp Image 2024-11-21 at 22 52 23_0a7d22a7](https://github.com/user-attachments/assets/795c540a-d090-4cfa-b7b6-61064da02675)
-)*
-*(![WhatsApp Image 2024-11-21 at 22 52 23_0a7d22a7](https://github.com/user-attachments/assets/795c540a-d090-4cfa-b7b6-61064da02675)
-)*
+)*![WhatsApp Image 2024-11-21 at 22 52 22_dace44ee](https://github.com/user-attachments/assets/0bd3a85f-180e-41c2-a08c-9de3caed1c11)
+
 
 ## 🔧 Installation
 
